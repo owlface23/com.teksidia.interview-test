@@ -1,6 +1,6 @@
 # Interview Coding Test
 
-This is a simple coding test I wrote to give candidates.
+This is a simple C# coding test I wrote to give candidates.
 
 It involves solving a sequence of simple problems to produce a "string calculator".
 
